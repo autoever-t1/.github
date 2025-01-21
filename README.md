@@ -27,3 +27,8 @@
 ## ⚙️ 시스템 아키텍처
   
 ![FE](https://github.com/user-attachments/assets/707e5644-a44f-4edd-8fdc-f03855b9ec2e)
+
+## 📺 화면 구성
+
+<img width="760" alt="스크린샷 2025-01-21 16 26 29" src="https://github.com/user-attachments/assets/04926d64-958d-479a-85a3-ee8d8fa5546c" />
+<img width="684" alt="스크린샷 2025-01-21 16 27 11" src="https://github.com/user-attachments/assets/61425874-5f2d-4928-a7dd-eaa29f810486" />
