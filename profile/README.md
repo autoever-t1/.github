@@ -58,7 +58,11 @@
 ---
 
 ## 📺 화면 구성 
-<img width="760" alt="스크린샷 2025-01-21 16 26 29" src="https://github.com/user-attachments/assets/0b94d2cd-063c-48d2-8f28-73429ef48e56" />  
-
-<img width="684" alt="스크린샷 2025-01-21 16 27 11" src="https://github.com/user-attachments/assets/1042f358-229e-42b5-ba46-de899a9a1628" />
+<img width="802" alt="스크린샷 2025-01-22 10 55 30" src="https://github.com/user-attachments/assets/170418f2-5f93-4162-8c47-22f936200498" />
+<img width="2066" alt="스크린샷 2025-01-22 10 56 03" src="https://github.com/user-attachments/assets/ca53da17-fe4f-49d1-9541-8d9a29538fca" />
+<img width="1882" alt="스크린샷 2025-01-22 10 56 24" src="https://github.com/user-attachments/assets/19fc9c09-d64a-48f4-a8a9-806b2ba9b3f4" />
+<img width="1871" alt="스크린샷 2025-01-22 10 56 40" src="https://github.com/user-attachments/assets/4770efea-55f9-437b-9437-08f27b9b8db3" />
+<img width="2029" alt="스크린샷 2025-01-22 10 57 02" src="https://github.com/user-attachments/assets/81938c00-3f70-44a1-bbf2-4a6729a3496b" />
+<img width="2061" alt="스크린샷 2025-01-22 10 57 27" src="https://github.com/user-attachments/assets/4ce57f33-c8cb-4c5b-9d1e-72ae951c47b1" />
+<img width="1880" alt="스크린샷 2025-01-22 10 58 11" src="https://github.com/user-attachments/assets/fa4468de-2f6b-49b2-8a7b-3f1907f7a42f" />
 
