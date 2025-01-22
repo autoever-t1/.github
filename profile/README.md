@@ -1,5 +1,9 @@
 ## 🚘 [현대오토에버 모빌리티 SW스쿨] 1조 중고차 거래 모바일 어플리케이션 <왓차>
 
+---
+
+![왓차](https://github.com/user-attachments/assets/a5fcd0c4-ffdf-439e-a20e-578517ce0d13)
+
 ## 😍 팀원 소개
 |<img src="https://avatars.githubusercontent.com/u/53224839?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/69664479?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/179423938?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
