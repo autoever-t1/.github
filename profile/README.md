@@ -48,6 +48,9 @@
   
 ![FE](https://github.com/user-attachments/assets/707e5644-a44f-4edd-8fdc-f03855b9ec2e)
 
+## 🎞️ 시연 영상 
+https://youtu.be/Sw2z7BGkkhQ?si=6fG3oPbrrgTJuzX8
+
 ---
 
 ## Frontend
