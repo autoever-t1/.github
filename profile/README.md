@@ -20,13 +20,7 @@
 |:-:|:-:|:-:|
 |yunju Lee<br/>[@glowju013](https://github.com/glowju013)|Lee JooHee<br/>[@ejoohee](https://github.com/ejoohee)|KIM_DEAHO<br/>[@DHowor1d](https://github.com/DHowor1d)|
 
-</div>
-
----
-
-<div align="center">
-
-  ![image](https://github.com/user-attachments/assets/d7e50e3f-caa6-45d4-be3e-dc92db4ff8e6)
+![image](https://github.com/user-attachments/assets/d7e50e3f-caa6-45d4-be3e-dc92db4ff8e6)
 
 </div>
 
