@@ -2,9 +2,16 @@
 
 ---
 
+<div align="center">
+
 ![왓차](https://github.com/user-attachments/assets/a5fcd0c4-ffdf-439e-a20e-578517ce0d13)
 
+</div>
+
 ## 😍 팀원 소개
+
+<div align="center">
+
 |<img src="https://avatars.githubusercontent.com/u/53224839?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/69664479?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/179423938?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |Sangyeon Park<br/>[@ektto1041](https://github.com/ektto1041)|Nam Jongsik<br/>[@N-jongsik](https://github.com/N-jongsik)|[@junsoo1003](https://github.com/junsoo1003)|
@@ -12,6 +19,8 @@
 |<img src="https://avatars.githubusercontent.com/u/76641389?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/122416957?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/102588838?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |yunju Lee<br/>[@glowju013](https://github.com/glowju013)|Lee JooHee<br/>[@ejoohee](https://github.com/ejoohee)|KIM_DEAHO<br/>[@DHowor1d](https://github.com/DHowor1d)|
+
+</div>
 
 
 
