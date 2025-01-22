@@ -30,7 +30,14 @@
   
 ![FE](https://github.com/user-attachments/assets/707e5644-a44f-4edd-8fdc-f03855b9ec2e)
 
-## Backend & database
+### Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=flat)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154?logo=reactquery&logoColor=white&style=flat)
+![Android](https://img.shields.io/badge/Android-%233DDC84?logo=android&logoColor=white&style=flat)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23009688?logo=jetpackcompose&logoColor=white&style=flat)
+
+### Backend & database
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-%23E34F26?logo=java&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white&style=flat)
