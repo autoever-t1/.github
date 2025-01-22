@@ -32,3 +32,8 @@
 <img width="760" alt="스크린샷 2025-01-21 16 26 29" src="https://github.com/user-attachments/assets/0b94d2cd-063c-48d2-8f28-73429ef48e56" />  
 
 <img width="684" alt="스크린샷 2025-01-21 16 27 11" src="https://github.com/user-attachments/assets/1042f358-229e-42b5-ba46-de899a9a1628" />
+
+## 😍 팀원
+|<img src="https://avatars.githubusercontent.com/u/53224839?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/69664479?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/179423938?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/76641389?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/122416957?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/102588838?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Sangyeon Park<br/>[@ektto1041](https://github.com/ektto1041)|Nam Jongsik<br/>[@N-jongsik](https://github.com/N-jongsik)|[@junsoo1003](https://github.com/junsoo1003)|yunju Lee<br/>[@glowju013](https://github.com/glowju013)|Lee JooHee<br/>[@ejoohee](https://github.com/ejoohee)|KIM_DEAHO<br/>[@DHowor1d](https://github.com/DHowor1d)|
