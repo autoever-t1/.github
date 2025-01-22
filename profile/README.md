@@ -30,6 +30,18 @@
   
 ![FE](https://github.com/user-attachments/assets/707e5644-a44f-4edd-8fdc-f03855b9ec2e)
 
+## Backend & database
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-%23E34F26?logo=java&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![JPA](https://img.shields.io/badge/JPA-%23007396?logo=hibernate&logoColor=white&style=flat)
+  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![H2](https://img.shields.io/badge/-H2-0174C8?logo=h2-database&logoColor=white&style=flat)
+![AWS RDS](https://img.shields.io/badge/-RDS-527FFF?logo=amazon-rds&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
 ## 📺 화면 구성 
 <img width="760" alt="스크린샷 2025-01-21 16 26 29" src="https://github.com/user-attachments/assets/0b94d2cd-063c-48d2-8f28-73429ef48e56" />  
 
