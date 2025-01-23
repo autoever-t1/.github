@@ -53,7 +53,11 @@
 ---
 
 ## 🎞️ 시연 영상 
+<div align="center">
+
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/Sw2z7BGkkhQ/0.jpg)](https://youtu.be/Sw2z7BGkkhQ)
+
+</div>
 
 ---
 
