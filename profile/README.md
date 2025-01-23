@@ -53,7 +53,7 @@
 ---
 
 ## 🎞️ 시연 영상 
-https://youtu.be/Sw2z7BGkkhQ?si=6fG3oPbrrgTJuzX8
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Sw2z7BGkkhQ/0.jpg)](https://youtu.be/Sw2z7BGkkhQ)
 
 ---
 
