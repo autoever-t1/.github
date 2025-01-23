@@ -89,8 +89,9 @@
 ## 📺 화면 구성 
 
 ### App - Login
-
+<div align="center">
 <img width="802" alt="스크린샷 2025-01-22 10 55 30" src="https://github.com/user-attachments/assets/170418f2-5f93-4162-8c47-22f936200498" />
+</div>
 
 ---
 
